@@ -11,4 +11,6 @@
 - 网络请求
    - HttpClient 
 - 日志库
-   - Serilog 
+   - Serilog
+- 弹性及瞬间错误处理库
+   - Polly  可以执行重试(Retry)，断路器(Circuit)，超时(Timeout)，隔板隔离(Bulkhead Isolation)及后背策略(Fallback)
