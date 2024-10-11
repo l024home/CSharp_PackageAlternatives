@@ -14,3 +14,7 @@
    - Serilog
 - 弹性及瞬间错误处理库
    - Polly  可以执行重试(Retry)，断路器(Circuit)，超时(Timeout)，隔板隔离(Bulkhead Isolation)及后背策略(Fallback)
+- 创建Windows服务
+   - Topshelf 
+- 模拟数据生成库
+   - Bogus 
