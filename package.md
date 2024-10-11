@@ -1,5 +1,14 @@
-- Mapster 用于对象映射
+- 对象映射
+   - Mapster
+   - AutoMapper
 - MediatR 进程内消息传递，请求/响应、命令、查询、通知、事件
-- Furion 框架
-- FluentValidation 模型验证
-- FluentResults 异常处理
+- 框架
+   - Furion
+-  模型验证
+   -  FluentValidation
+-  异常处理
+   -  FluentResults
+- 网络请求
+   - HttpClient 
+- 日志库
+   - Serilog 
