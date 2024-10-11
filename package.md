@@ -1,2 +1,4 @@
 - Mapster 用于对象映射
 - MediatR 进程内消息传递，请求/响应、命令、查询、通知、事件
+- Furion 框架
+- FluentValidation 模型验证
