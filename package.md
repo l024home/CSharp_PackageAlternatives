@@ -4,6 +4,7 @@
 - MediatR 进程内消息传递，请求/响应、命令、查询、通知、事件
 - 框架
    - Furion
+   - Nancy 轻量级http框架
 -  模型验证
    -  FluentValidation
 -  异常处理
@@ -17,4 +18,4 @@
 - 创建Windows服务
    - Topshelf 
 - 模拟数据生成库
-   - Bogus 
+   - Bogus
